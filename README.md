@@ -3,7 +3,7 @@ Cluster Analysis
 
 Here is a visualization of the customer clusters obtained using t-SNE:
 
-![Screenshot](https://github.com/PetyaPetrova96/customer_segmentation/raw/master/Screenshot%202024-09-18%20163810.png)
+![Screenshot](https://github.com/PetyaPetrova96/customer_segmentation/blob/master/clusters.png)
 
 Cluster 0:
 
